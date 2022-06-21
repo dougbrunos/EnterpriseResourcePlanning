@@ -5,4 +5,4 @@
 - IDE: Apache NetBeans IDE 13
 
 # System functions
-- Cadastro de usuários
+- User registration
