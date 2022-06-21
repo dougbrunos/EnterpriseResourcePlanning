@@ -1,5 +1,5 @@
 # EnterpriseResourcePlanning 
 - Programming language: JAVA
 - JDK: 18.0.1.1
-- Database: MySql
+- Database: MySQL
 - IDE: Apache NetBeans IDE 13
